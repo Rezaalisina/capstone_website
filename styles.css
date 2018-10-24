@@ -1,0 +1,13 @@
+body {
+    /* background-color: lightblue; */
+    /* background-image: url("Capture.PNG"); */
+
+    background: url("Capture.PNG") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+.container {
+    background-color: rgba(100, 100, 100, .6)
+}
