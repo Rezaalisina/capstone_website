@@ -11,3 +11,9 @@ body {
 .container {
     background-color: rgba(100, 100, 100, .6)
 }
+
+#aphlogo {
+    display: table;
+    margin: auto;
+    margin-top: 10px;
+}
